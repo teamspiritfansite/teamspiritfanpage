@@ -4,7 +4,6 @@ User-agent: *
 Allow: /
 # Запрещаем индексацию медиафайлов (экономит ресурсы для поисковиков)
 Disallow: /images/
-Disallow: /photo/
 
 # SEO-оптимизация: Указываем путь к карте сайта для поисковиков
-Sitemap: https://yourdomain.com/sitemap.xml
+Sitemap: https://teamspiritfansite.github.io/teamspiritfanpage/sitemap.xml
