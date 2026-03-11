@@ -6,4 +6,4 @@ Allow: /
 Disallow: /images/
 
 # SEO-оптимизация: Указываем путь к карте сайта для поисковиков
-Sitemap: https://teamspiritfansite.github.io/teamspiritfanpage/sitemap.xml
+Sitemap: https://teamspiritfansite.github.io/sitemap.xml
